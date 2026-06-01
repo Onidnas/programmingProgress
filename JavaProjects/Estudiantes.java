@@ -64,20 +64,21 @@ public class Estudiantes {
 	mostrarLetra(nombres,ch);
  }
  public static void main(String [] args){
-	 Scanner input = new Scanner(System.in);
-	 System.out.println("Elije que programa deseas correr: ");
-	 System.out.println("1.Convertir la base de estudiantes a Mayusculas ");
-	 System.out.println("2.Verifica que letra queres buscar ");
-	 int opcion = input.nextInt();
-	 switch(opcion) {
-		case 1:
-			primeraParte();
-			break;
-		case 2:
-			segundaParte();
-			break;
-		default:
-			System.out.println("MUESTRA UN VALOR VALIDO");
+	 try (Scanner input = new Scanner(System.in)) {
+		System.out.println("Elije que programa deseas correr: ");
+		 System.out.println("1.Convertir la base de estudiantes a Mayusculas ");
+		 System.out.println("2.Verifica que letra queres buscar ");
+		 int opcion = input.nextInt();
+		 switch(opcion) {
+			case 1:
+				primeraParte();
+				break;
+			case 2:
+				segundaParte();
+				break;
+			default:
+				System.out.println("MUESTRA UN VALOR VALIDO");
+		 }
 	 }
 
  }
