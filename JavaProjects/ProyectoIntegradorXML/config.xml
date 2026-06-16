@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuracion>
+
+    <!-- Datos generales de la empresa -->
+    <empresa>TechSoft Solutions</empresa>
+    <administrador>Carlos Méndez</administrador>
+
+    <!-- Conexión al servidor de base de datos -->
+    <baseDeDatos>
+        <host>192.168.1.10</host>
+        <puerto>3306</puerto>
+        <nombre>techsoft_db</nombre>
+        <usuario>root</usuario>
+    </baseDeDatos>
+
+    <!-- Preferencias de la aplicación -->
+    <aplicacion>
+        <idioma>es</idioma>
+        <modoOscuro>false</modoOscuro>
+        <itemsPorPagina>20</itemsPorPagina>
+    </aplicacion>
+
+</configuracion>
