@@ -9,14 +9,13 @@ public class LeerConfig {
 	public static void main(String [] args) {
 		try {
 	 DocumentBuilderFactory fabrica = DocumentBuilderFactory.newInstance();
-	 fabrica.setNamespaceAwera(true);
 	 DocumentBuilder constructor = fabrica.newDocumentBuilder();
 	 //Abrir y analizar 
 	  
 	  Document doc = constructor.parse(new File("config.xml"));
-	  System.out.println(doc.getElementByTagName("empresa").item(0).getTextContent());
-	  System.out.println(getElementsByTagName("baseDeDatos").item(0));
-	  System.out.println(getElementsByTagName("host").item(0).getTextContent());
+	  System.out.println(doc.getElementsByTagName("empresa").item(0).getTextContent());
+	  System.out.println(doc.getElementsByTagName("baseDeDatos").item(0));
+	  System.out.println(doc.getElementsByTagName("host").item(0).getTextContent());
 	}
 	 catch (Exception e) {
        	     System.err.println("Error: " + e.getMessage());
