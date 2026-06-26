@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <sistema>
+        <nombre>Biblioteca Digital TEC</nombre>
+        <version>2.0</version>
+        <capacidadMaxima>200</capacidadMaxima>
+        <rutaDatos>datos/catalogo.ser</rutaDatos>
+        <rutaExportacion>exportaciones/</rutaExportacion>
+    </sistema>
+    <generos>
+        <genero id="1">Ciencia Ficción</genero>
+        <genero id="2">Novela</genero>
+        <genero id="3">Tecnología</genero>
+        <genero id="4">Historia</genero>
+    </generos>
+</configuracion>
