@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalogo fecha="2026-06-26" sistema="Biblioteca Digital TEC">
+    <libro isbn="978-1">
+        <titulo>Dune</titulo>
+        <autor>Frank Herbert</autor>
+        <genero>Ciencia Ficción</genero>
+        <precio>280.00</precio>
+        <ejemplares>5</ejemplares>
+    </libro>
+    <libro isbn="978-2">
+        <titulo>Clean Code</titulo>
+        <autor>Robert C. Martin</autor>
+        <genero>Tecnología</genero>
+        <precio>450.50</precio>
+        <ejemplares>3</ejemplares>
+    </libro>
+    <libro isbn="978-3">
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <genero>Novela</genero>
+        <precio>310.00</precio>
+        <ejemplares>8</ejemplares>
+    </libro>
+    <libro isbn="978-1">
+        <titulo>Dune</titulo>
+        <autor>Frank Herbert</autor>
+        <genero>Ciencia Ficción</genero>
+        <precio>280.00</precio>
+        <ejemplares>5</ejemplares>
+    </libro>
+    <libro isbn="978-2">
+        <titulo>Clean Code</titulo>
+        <autor>Robert C. Martin</autor>
+        <genero>Tecnología</genero>
+        <precio>450.50</precio>
+        <ejemplares>3</ejemplares>
+    </libro>
+    <libro isbn="978-3">
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <genero>Novela</genero>
+        <precio>310.00</precio>
+        <ejemplares>8</ejemplares>
+    </libro>
+    <libro isbn="978-1">
+        <titulo>Dune</titulo>
+        <autor>Frank Herbert</autor>
+        <genero>Ciencia Ficción</genero>
+        <precio>280.00</precio>
+        <ejemplares>5</ejemplares>
+    </libro>
+    <libro isbn="978-2">
+        <titulo>Clean Code</titulo>
+        <autor>Robert C. Martin</autor>
+        <genero>Tecnología</genero>
+        <precio>450.50</precio>
+        <ejemplares>3</ejemplares>
+    </libro>
+    <libro isbn="978-3">
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <genero>Novela</genero>
+        <precio>310.00</precio>
+        <ejemplares>8</ejemplares>
+    </libro>
+</catalogo>

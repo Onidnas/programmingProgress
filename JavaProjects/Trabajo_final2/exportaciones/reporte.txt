@@ -1,0 +1,16 @@
+══════════════════════════════════════════════════════════════
+  REPORTE DE CATÁLOGO — BIBLIOTECA DIGITAL TEC
+  Generado: 26/06/2026 13:46
+══════════════════════════════════════════════════════════════
+  • [978-1] "Dune" — Frank Herbert | Ciencia Ficción | $280.00 | Ejemplares: 5 | Alta: 2026-06-26
+  • [978-2] "Clean Code" — Robert C. Martin | Tecnología | $450.50 | Ejemplares: 3 | Alta: 2026-06-26
+  • [978-3] "El nombre del viento" — Patrick Rothfuss | Novela | $310.00 | Ejemplares: 8 | Alta: 2026-06-26
+  • [978-1] "Dune" — Frank Herbert | Ciencia Ficción | $280.00 | Ejemplares: 5 | Alta: 2026-06-26
+  • [978-2] "Clean Code" — Robert C. Martin | Tecnología | $450.50 | Ejemplares: 3 | Alta: 2026-06-26
+  • [978-3] "El nombre del viento" — Patrick Rothfuss | Novela | $310.00 | Ejemplares: 8 | Alta: 2026-06-26
+  • [978-1] "Dune" — Frank Herbert | Ciencia Ficción | $280.00 | Ejemplares: 5 | Alta: 2026-06-26
+  • [978-2] "Clean Code" — Robert C. Martin | Tecnología | $450.50 | Ejemplares: 3 | Alta: 2026-06-26
+  • [978-3] "El nombre del viento" — Patrick Rothfuss | Novela | $310.00 | Ejemplares: 8 | Alta: 2026-06-26
+══════════════════════════════════════════════════════════════
+  Total libros: 9 | Valor catálogo: $3121.50
+══════════════════════════════════════════════════════════════
