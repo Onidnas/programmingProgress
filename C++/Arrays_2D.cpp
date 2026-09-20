@@ -86,7 +86,6 @@
 
     return 0;
 }*/
-#include <iostream>
 
 int main() {
     int seating[5][5] = {
@@ -110,13 +109,14 @@ int main() {
 
     // Test valid access
     std::cout << "Valid access - Row 2, Col 3: " << getSeat(1, 2) << std::endl;
-
+    std::cout << "nSeating"  << std::endl;
     // Test invalid access
     std::cout << "Invalid access - Row 6, Col 3: " << getSeat(4, -2) << std::endl;
     std::cout << "Invalid access - Row 3, Col 8: " << getSeat(2, 7) << std::endl;
 
     // Your code here: Test accessing row -1, col 2
 
+    std::cout << seating[1][2] << std::endl;
     return 0;
 }
 
